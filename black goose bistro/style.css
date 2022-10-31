@@ -1,0 +1,45 @@
+.body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(227, 140, 140);
+}
+
+.goose{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 2px;
+    padding: 1px 0px;
+    height: 73px;
+}
+.goose img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1px;
+    height: 73px;
+    width: 149px;
+    /* background-color: black; */
+    
+    /* position: relative; */
+    
+}
+
+.writtens{
+    margin: 0px 342px;
+}
+
+.para{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 100px;
+}
+
+.resto{
+    color: red;
+}
+
+.line{
+    color: lightblue;
+}
